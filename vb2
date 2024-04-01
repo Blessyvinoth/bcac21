@@ -1,7 +1,7 @@
 Module Module1
     Sub Main
         Dim str As String
-        str =
+        str ="shri"
         Console.WriteLine(str)
         Console.ReadLine
     End Sub
